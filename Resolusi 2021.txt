@@ -4,3 +4,4 @@ Resolusi 2021
 - Merendah diri
 - Belajar membuat platform
 - Belajar membuat sebuah aplikasi
+- Belajar bahasa C
