@@ -5,3 +5,4 @@ Resolusi 2021
 - Belajar membuat platform
 - Belajar membuat sebuah aplikasi
 - Belajar bahasa C
+- Belajar membuat website
